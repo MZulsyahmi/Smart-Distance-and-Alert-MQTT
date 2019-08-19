@@ -16,4 +16,4 @@ Using the LED as a trigger to alert the user it in presence of obstacle.
 
   Connect to the Adafruit MQTT.
   Making the project become a Internet of Things.
-  The MQTT can monitor and record the temperature and humidity from DHT11 / DHT22 sensor.
+  The MQTT can monitor and record the distance measured by the sensor.
